@@ -10,7 +10,7 @@
 * **學習重點**: 掌握 AI 基本概念（機器學習、電腦視覺、自然語言處理）以及 Azure 雲端 AI 服務的應用。
 * **官方驗證**: [點此查看 Credly 官方驗證連結](這裡請貼上你的Credly連結)
 
-<img src="https://img.shields.io/badge/Microsoft-AI--900-blue?style=for-the-badge&logo=microsoft" alt="AI-900 Badge">
+<img src="AI900_badge.png">
 
 ---
 
