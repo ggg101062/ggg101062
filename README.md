@@ -27,6 +27,8 @@
 | <img src="./Nvidia_JetsonNano_Certification.png" width="400"> | <img src="Jetson_Nano.png" width="400"> |
 
 > **備註**: 本認證側重於硬體整合與 AI 模型在邊緣裝置的佈署實務。
+>
+> 👉 [點此查看我的詳細實作筆記與心得](./Jetson_Nano_Study_Note.md)
 
 ---
 
