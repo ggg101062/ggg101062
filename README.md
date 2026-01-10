@@ -41,5 +41,16 @@
 * **Edge AI**: NVIDIA Jetson Nano, PyTorch
 * **Languages**: Python (基礎應用)
 
+## 📚 學術研究與課程筆記 (Academic Works)
+
+###大一上學期
+### [專題報告] 深度學習與 AI 的五大技術挑戰
+針對數據稀缺性、黑箱難題與對抗性攻擊進行深入研究，並探討遷移學習等解決方案。
+* [查看期末簡報 PDF](./AI_Technical_Challenges_Report.pdf)
+
+### [課程統整] 人工智慧概論筆記
+涵蓋計算機底層架構、進位法轉換、以及 AI 演算法分類。
+* [查看數位摘要與手寫筆記](./AI_Overview_Notes.md)
+
 ---
 *最後更新日期: 2024年*
