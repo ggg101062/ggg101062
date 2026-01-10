@@ -42,11 +42,25 @@
 * **Languages**: Python (基礎應用)
 
 ## 📚 學術研究與課程筆記 (Academic Works)
+
 ### [大一上學期]
-### [人工智慧導論課程][專題報告]深度學習與 AI 的五大技術挑戰
+
+### [人工智慧導論課程][小專題報告]深度學習與 AI 的五大技術挑戰
+
 針對數據稀缺性、黑箱難題與對抗性攻擊進行深入研究，並探討遷移學習等解決方案。
+
 * [查看期末簡報連結](https://www.canva.com/design/DAG6OeYDQKI/UGlPsdenAYCz2zKbCX2LJw/edit?utm_content=DAG6OeYDQKI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+### [大一AI實驗課][小專題報告]
+
+資料清理、資料視覺化(製作圖表)、模型訓練 與 結果分析。
+
+* 👉 [**點此進入：AI 實驗課程式碼倉庫**](https://github.com/ggg101062/AI-Salary-Insight-AI-ML-)
+
+---
+
+## 📚 學術研究與課程筆記 (Academic Works)
+(保留原本的報告與筆記連結...)
 ### [課程統整] 人工智慧概論筆記(未上傳)
 涵蓋計算機底層架構、進位法轉換、以及 AI 演算法分類。
 * [查看數位摘要與手寫筆記](./AI_Overview_Notes.md)
