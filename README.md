@@ -57,10 +57,6 @@
 
 * 👉 [**點此進入：AI 實驗課程式碼倉庫**](https://github.com/ggg101062/AI-Salary-Insight-AI-ML-)
 
----
-
-## 📚 學術研究與課程筆記 (Academic Works)
-(保留原本的報告與筆記連結...)
 ### [課程統整] 人工智慧概論筆記(未上傳)
 涵蓋計算機底層架構、進位法轉換、以及 AI 演算法分類。
 * [查看數位摘要與手寫筆記](./AI_Overview_Notes.md)
