@@ -8,7 +8,7 @@
 ### 1. Microsoft Certified: Azure AI Fundamentals (AI-900)
 * **證照狀態**: 已取得認證
 * **學習重點**: 掌握 AI 基本概念（機器學習、電腦視覺、自然語言處理）以及 Azure 雲端 AI 服務的應用。
-* **官方驗證**: [點此查看 Credly 官方驗證連結](這裡請貼上你的Credly連結)
+* **官方驗證**: [點此查看 Credly 官方驗證連結](https://www.credly.com/badges/3ace4ffb-5359-4765-930f-ca2722237a89/public_url)
 
 <img src="AI900_badge.png">
 
