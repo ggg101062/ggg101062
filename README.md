@@ -53,7 +53,7 @@
 
 ### [大一AI實驗課][小專題報告]
 
-資料清理、資料視覺化(製作圖表)、模型訓練 與 結果分析。
+AI-Salary-Insight：全球 AI / ML 產業薪資結構之量化分析與雙模型預測
 
 * 👉 [**點此進入：AI 實驗課程式碼倉庫**](https://github.com/ggg101062/AI-Salary-Insight-AI-ML-)
 
